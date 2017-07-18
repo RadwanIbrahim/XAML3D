@@ -1,4 +1,3 @@
-/# XAML3D
 UWP XAML 3D Model Control
 
  <dx:DXModel Height="300"
