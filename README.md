@@ -16,8 +16,8 @@ features
 
 comming.. 
 
-2-changing the texture
+1-changing the material
 
-1-changing the material 
+2-changing the texture
 
 3-controlling the light 
